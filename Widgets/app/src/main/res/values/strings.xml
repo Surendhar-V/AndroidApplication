@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Widgets</string>
+    <string-array name="fruits">
+
+        <item> -- </item>
+        <item> Avocado</item>
+        <item> Banana</item>
+        <item> Cocunut</item>
+        <item> Guvava</item>
+        <item> Lemon</item>
+        <item> Mango</item>
+        <item> Orange</item>
+
+
+    </string-array>
+
+
+
+</resources>
