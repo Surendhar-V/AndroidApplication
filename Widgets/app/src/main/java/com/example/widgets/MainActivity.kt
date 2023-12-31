@@ -1,12 +1,14 @@
 package com.example.widgets
 
-import android.app.Activity
-import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.text.Editable
+import android.text.TextWatcher
+import android.util.Log
 import android.view.View
 import android.widget.AdapterView
 import android.widget.CheckBox
+import android.widget.EditText
 import android.widget.RadioButton
 import android.widget.RadioGroup
 import android.widget.Spinner
@@ -19,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var checkBox: CheckBox
     lateinit var spinner_fruits : Spinner
     lateinit var fruitAdapter : FruitsAdapter
-
+    lateinit var ed : EditText
     override fun onCreate(savedInstanceState: Bundle?) {
 
 
@@ -29,6 +31,7 @@ class MainActivity : AppCompatActivity() {
         checkBox = findViewById(R.id.checkBox)
         radioGroup = findViewById(R.id.radioGroup)
         spinner_fruits = findViewById(R.id.spinner_fruit)
+        ed = findViewById(R.id.ed)
 
         checkBox.setOnCheckedChangeListener { buttonView, isChecked ->
             if (isChecked) {
@@ -46,12 +49,12 @@ class MainActivity : AppCompatActivity() {
                     "You selected ${radioButton.text.toString()}",
                     Toast.LENGTH_SHORT
                 ).show()
-
             }
         }
 
         fruitAdapter = FruitsAdapter(applicationContext , Data.getFruitList(applicationContext))
         spinner_fruits.adapter = fruitAdapter
+
 
         val item : String = spinner_fruits.selectedItem.toString()
         spinner_fruits.onItemSelectedListener = object : AdapterView.OnItemClickListener,
@@ -60,7 +63,7 @@ class MainActivity : AppCompatActivity() {
             override fun onItemSelected(parent: AdapterView<*>?,view: View?,position: Int,id: Long) {
                 var s : Any? = parent?.selectedItem
 
-                if(!(Data.array.get(s as Int).equals("--")))
+                if(Data.array.get(s as Int) != "--")
                 Toast.makeText(this@MainActivity , "You have selected ${Data.array.get(s as Int)}" , Toast.LENGTH_SHORT).show()
 
             }
@@ -75,6 +78,9 @@ class MainActivity : AppCompatActivity() {
 
 
         }
+
+
+
 
 
     }
