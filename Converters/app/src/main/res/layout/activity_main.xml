@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FEFCFF"
+    tools:context=".MainActivity">
+
+   <ImageView
+       android:id="@+id/imageView"
+       android:layout_width="25dp"
+       android:layout_height="25dp"
+       android:layout_marginStart="20dp"
+       android:layout_marginTop="28dp"
+       android:src="@drawable/back"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="parent" />
+
+   <TextView
+       android:id="@+id/title"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginStart="15dp"
+       android:text="Unit converter"
+       android:textColor="@color/blue"
+       android:textSize="26dp"
+       android:textStyle="bold"
+       app:layout_constraintBottom_toBottomOf="@+id/imageView"
+       app:layout_constraintStart_toEndOf="@+id/imageView"
+       app:layout_constraintTop_toTopOf="@+id/imageView" />
+
+   <HorizontalScrollView
+       android:id="@+id/horizontalScrollView"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:scrollbars="none"
+       app:layout_constraintBottom_toBottomOf="@id/btnLimit"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toBottomOf="@id/imageView">
+
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="8dp">
+
+         <Button
+             android:id="@+id/btnArea"
+             style="@style/converterbutton"
+             android:layout_width="70dp"
+             android:text="Area" />
+
+
+         <Button
+             android:id="@+id/btnLength"
+             style="@style/converterbutton"
+             android:text="Length" />
+
+         <Button
+             android:id="@+id/btnTemperature"
+             style="@style/converterbutton"
+             android:text="    Temperature    " />
+
+         <Button
+             android:id="@+id/btnVolume"
+             style="@style/converterbutton"
+             android:text="  Volume  " />
+
+         <Button
+             android:id="@+id/btnMass"
+             style="@style/converterbutton"
+             android:layout_width="80dp"
+             android:text="Mass" />
+
+         <Button
+             android:id="@+id/btnData"
+             style="@style/converterbutton"
+             android:layout_width="70dp"
+             android:text="Data" />
+
+         <Button
+             android:id="@+id/btnSpeed"
+             style="@style/converterbutton"
+             android:text="Speed" />
+
+         <Button
+             android:id="@+id/btnTime"
+             style="@style/converterbutton"
+             android:layout_width="70dp"
+             android:text="Time" />
+
+
+      </LinearLayout>
+
+   </HorizontalScrollView>
+
+   <View
+       android:id="@+id/btnLimit"
+       android:layout_width="360dp"
+       android:layout_height="1dp"
+       android:layout_marginTop="60dp"
+       android:background="@color/gray"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toBottomOf="@+id/title" />
+
+
+   <FrameLayout
+       android:id="@+id/fragment"
+       android:layout_width="match_parent"
+       android:layout_height="0dp"
+       app:layout_constraintBottom_toTopOf="@id/fragmentLimit"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toBottomOf="@id/btnLimit"
+       />
+
+   <View
+       android:id="@+id/fragmentLimit"
+       android:layout_width="360dp"
+       android:layout_height="1dp"
+       android:layout_marginBottom="18dp"
+       android:background="@color/gray"
+       app:layout_constraintBottom_toTopOf="@id/keypad"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent" />
+
+   <LinearLayout
+       android:id="@+id/keypad"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginBottom="10dp"
+       android:gravity="center"
+       android:orientation="vertical"
+       app:layout_constraintBottom_toBottomOf="parent">
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_7"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/sevenText"
+
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_8"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/eightText"
+
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_9"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/nineText"
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_BackSpace"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             app:icon="@drawable/baseline_backspace_24"
+             app:iconSize="27dp"
+             app:iconTint="@color/blue"
+             />
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_4"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/fourText"
+
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_5"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/fiveText"
+
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_6"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/sixText"
+
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/clear"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/clearText"
+             />
+
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_1"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/oneText"
+
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_2"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/twoText"
+
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_3"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/threeText"
+
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/upArrow"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/upArrow"
+
+             />
+
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_AllClear"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:enabled="false"
+             android:textColor="#868686"
+             android:text="@string/allClear" />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_0"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/zeroText"
+
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/btn_decimal"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/decimalText"
+             />
+
+         <com.google.android.material.button.MaterialButton
+             android:id="@+id/downArrow"
+             style="@style/digitbutton"
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             android:text="@string/downArrow"
+             />
+      </LinearLayout>
+
+
+   </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

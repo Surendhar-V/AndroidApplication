@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
     lateinit var ed : EditText
     override fun onCreate(savedInstanceState: Bundle?) {
 
-
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
@@ -57,6 +56,7 @@ class MainActivity : AppCompatActivity() {
 
 
         val item : String = spinner_fruits.selectedItem.toString()
+
         spinner_fruits.onItemSelectedListener = object : AdapterView.OnItemClickListener,
             AdapterView.OnItemSelectedListener {
 
@@ -64,31 +64,20 @@ class MainActivity : AppCompatActivity() {
                 var s : Any? = parent?.selectedItem
 
                 if(Data.array.get(s as Int) != "--")
-                Toast.makeText(this@MainActivity , "You have selected ${Data.array.get(s as Int)}" , Toast.LENGTH_SHORT).show()
+                Toast.makeText(applicationContext , "You have selected ${Data.array.get(s as Int)}" , Toast.LENGTH_SHORT).show()
 
             }
 
-            override fun onNothingSelected(parent: AdapterView<*>?) {
-                TODO("Not yet implemented")
-            }
+            override fun onNothingSelected(parent: AdapterView<*>?) {}
 
-            override fun onItemClick(parent: AdapterView<*>?,view: View?,position: Int,id: Long) {
-                TODO("Not yet implemented")
-            }
-
+            override fun onItemClick(parent: AdapterView<*>?,view: View?,position: Int,id: Long) {}
 
         }
-
-
-
-
-
+        
     }
 
     private fun showToast(message: String) {
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
     }
-
-
 
 }

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Coffee ListView</string>
+<string-array name="coffee">
+    <item>Espresso</item>
+    <item>Latte</item>
+    <item>Mocha</item>
+    <item>Cappuccino</item>
+    <item>Glance</item>
+    <item>Iced Coffee</item>
+    <item>Americano</item>
+    <item>Irish</item>
+    <item>Coffee Milk Shake</item>
+    <item>Take Away</item>
+    <item>Frappe</item>
+    <item>Take Away Frappe</item>
+</string-array>
+
+</resources>

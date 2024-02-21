@@ -14,6 +14,7 @@
 
 
     <string name="clearText">C</string>
+    <string name="allClear">AC</string>
     <string name="divideText">÷</string>
     <string name="multiplyText">×</string>
     <string name="addText">+</string>

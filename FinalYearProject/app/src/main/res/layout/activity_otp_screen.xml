@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Authentication.OtpScreen">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/login_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/opt_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:text="OTP"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+
+        android:id="@+id/otp_msg"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="We Send You OTP Please Check Your Messages And Complete OTP Code"
+        android:textAlignment="center"
+        android:textColor="@color/dark_gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/opt_text"
+
+        />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@id/confirm_otp_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/otp_msg">
+
+        <EditText
+            android:id="@+id/otp_one"
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:background="@color/light_gray"
+            android:digits="1234567890"
+            android:gravity="center"
+            android:inputType="numberDecimal"
+            android:maxLength="1"
+            android:textSize="23dp"
+            app:layout_constraintEnd_toStartOf="@+id/otp_two"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintHorizontal_chainStyle="spread_inside"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/otp_two"
+
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:background="@color/light_gray"
+            android:digits="1234567890"
+            android:gravity="center"
+            android:inputType="numberDecimal"
+            android:maxLength="1"
+            android:textSize="23dp"
+            app:layout_constraintEnd_toStartOf="@+id/otp_three"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/otp_one"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/otp_three"
+
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:background="@color/light_gray"
+            android:digits="1234567890"
+            android:gravity="center"
+            android:inputType="numberDecimal"
+            android:maxLength="1"
+            android:textSize="23dp"
+            app:layout_constraintEnd_toStartOf="@+id/otp_four"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/otp_two"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/otp_four"
+
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:background="@color/light_gray"
+            android:digits="1234567890"
+            android:gravity="center"
+            android:inputType="numberDecimal"
+            android:maxLength="1"
+            android:textSize="23dp"
+            app:layout_constraintEnd_toStartOf="@+id/otp_five"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/otp_three"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/otp_five"
+
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:background="@color/light_gray"
+            android:digits="1234567890"
+            android:gravity="center"
+            android:inputType="numberDecimal"
+            android:maxLength="1"
+            android:textSize="23dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/otp_four"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:id="@+id/editPn_otp_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="edit phone number"
+        android:textColor="@color/dark_gray"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout2"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
+        app:layout_constraintVertical_bias="0.025"
+        android:textSize="13dp"/>
+
+    <Button
+        android:id="@+id/confirm_otp_button"
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:text="Confirm"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.654" />
+
+
+    <TextView
+
+        android:id="@+id/back_Login_Otp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Already have an account? Log in"
+        android:layout_marginTop="80dp"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/confirm_otp_button"
+
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

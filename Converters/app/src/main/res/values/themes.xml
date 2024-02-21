@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Converters" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="digitbutton" parent="commanbutton">
+
+        <item name="android:textColor">@color/btnNumber</item>
+
+    </style>
+
+    <style name="commanbutton" parent="Widget.Material3.Button">
+
+        <item name = "android:layout_width">70dp</item>
+        <item name = "android:layout_height">70dp</item>
+        <item name = "android:backgroundTint">@color/btnBackground</item>
+        <item name="cornerRadius">50dp</item>
+        <item name="android:textSize">25dp</item>
+        <item name = "android:layout_margin">5dp</item>
+
+
+    </style>
+
+    <style name="converterbutton" parent="Widget.Material3.Button">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:backgroundTint">@color/gray</item>
+        <item name="android:textSize">17dp</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:radius">40dp</item>
+        <item name="android:layout_marginEnd">5dp</item>
+
+    </style>
+
+    <style name="Theme.Converters" parent="Base.Theme.Converters" />
+</resources>

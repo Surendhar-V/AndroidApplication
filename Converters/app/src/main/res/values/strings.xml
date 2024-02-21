@@ -1,0 +1,142 @@
+<resources>
+
+    <string name="app_name">Converters</string>
+
+    <string name="area">Area</string>
+    <string name="length">Length</string>
+    <string name="temperature">Temperature</string>
+    <string name="volume">Volume</string>
+    <string name="mass">Mass</string>
+    <string name="data">Data</string>
+    <string name="speed">Speed</string>
+    <string name="time">Time</string>
+    <string name="tip">Tip</string>
+
+
+
+    <string name="oneText">1</string>
+    <string name="twoText">2</string>
+    <string name="threeText">3</string>
+    <string name="fourText">4</string>
+    <string name="fiveText">5</string>
+    <string name="sixText">6</string>
+    <string name="sevenText">7</string>
+    <string name="eightText">8</string>
+    <string name="nineText">9</string>
+    <string name="zeroText">0</string>
+
+    <string name="decimalText">.</string>
+    <string name="clearText">C</string>
+    <string name="allClear">AC</string>
+
+    <string name="upArrow">↑</string>
+    <string name="downArrow">↓</string>
+
+    <string-array name="area">
+
+        <item name = "acres">Acres (ac)</item>
+        <item name = "ares">Ares (a)</item>
+        <item name = "hectares">Hectares (ha)</item>
+        <item name = "square centimetres">Square centimetres (cm²)</item>
+        <item name = "square feet">Square feet (ft²)</item>
+        <item name = "square inches">Square inches (in²)</item>
+        <item name = "square metres">Square metres (m²)</item>
+
+    </string-array>
+
+    <string-array name="length">
+
+
+        <item name = "millimeters">Millimeters (mm)</item>
+        <item name = "centimeters">Centimeters (cm)</item>
+        <item name = "metres">Meters (m)</item>
+        <item name = "kilometers">Kilometers (km)</item>
+        <item name = "inches">Inches (in)</item>
+        <item name = "feet">Feet (ft)</item>
+        <item name = "yards">Yards (yd)</item>
+        <item name = "miles">Miles (mi)</item>
+        <item name = "nautical miles">Nautical miles (NM)</item>
+        <item name = "mils">Mils (mil)</item>
+    </string-array>
+
+    <string-array name="mass">
+
+        <item name = "tons">Tones (t)</item>
+        <item name = "uk tons">UK tons (t)</item>
+        <item name = "pounds">US tons (t)</item>
+        <item name = "ounces">Pounds (lb)</item>
+        <item name = "kilogrammes">Ounces (oz)</item>
+        <item name = "grams">Kilograms (kg)</item>
+        <item name = "grams">Grams (g)</item>
+
+    </string-array>
+
+    <string-array name="data">
+
+
+        <item name = "bits">Bits (bit)</item>
+        <item name = "bytes">Bytes (B)</item>
+        <item name = "kilobytes">Kilobytes (KB)</item>
+        <item name = "kibibytes">kibibytes (KiB)</item>
+        <item name = "megabytes">Megabytes (MB)</item>
+        <item name = "mebibytes">Mebibytes (MiB)</item>
+        <item name = "gigabytes">Gigabytes (GB)</item>
+        <item name = "gibibytes">Gibibytes (GiB)</item>
+        <item name = "terabytes">Terabytes (TB)</item>
+        <item name = "tebibytes">Tebibytes (TiB)</item>
+
+    </string-array>
+
+    <string-array name="speed">
+
+        <item name = "mps">Metres per second (m/s)</item>
+        <item name = "mph">Metres per hour (m/h)</item>
+        <item name = "kps">Kilometers per second (km/s)</item>
+        <item name = "kph">Kilometers per hour (km/h)</item>
+        <item name = "ips">Inches per second (in/s)</item>
+        <item name = "iph">Inches per hour (in/h)</item>
+        <item name = "fps">Feet per second (ft/s)</item>
+        <item name = "fph">Feet per hour (ft/h)</item>
+        <item name = "mips">Miles per second (mi/s)</item>
+        <item name = "miph">Miles per hour (mi/h)</item>
+        <item name = "knots">kn (kn)</item>
+
+    </string-array>
+
+    <string-array name="time">
+
+        <item name = "milliseconds">Milliseconds (ms)</item>
+        <item name = "seconds">Seconds (s)</item>
+        <item name = "minutes">Minutes (min)</item>
+        <item name = "hours">Hours (h)</item>
+        <item name = "days">Days (d)</item>
+        <item name = "weeks">Weeks (wk)</item>
+
+    </string-array>
+
+    <string-array name="volume">
+
+        <item name = "uk gallons">UK gallons (gal)</item>
+        <item name = "us gallons">US gallons (gal)</item>
+        <item name = "liters">Litres (l)</item>
+        <item name = "millilitres">Millilitres (ml)</item>
+        <item name = "cubic_centimeters">Cubic centrimeters (cc) (cm³)</item>
+        <item name = "cubic_meters">Cubic meters (m³)</item>
+        <item name = "cubic_inches">Cubic inches (in³)</item>
+        <item name = "cubic_feet">Cubic feet (ft³)</item>
+
+    </string-array>
+
+    <string-array name="temperature">
+
+        <item name = "celsius">Celsius (°C)</item>
+        <item name = "fahrenheit">Fahrenheit (°F)</item>
+        <item name = "kelvin">Kelvin (K)</item>
+
+    </string-array>
+
+
+
+
+
+</resources>

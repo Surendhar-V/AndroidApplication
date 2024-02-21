@@ -2,7 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-
+    <color name="primaryColorDark">#1a1a25</color>
+    <color name="bodyColorDark">#212131</color>
+    <color name="btnDark">#4e525d</color>
     <color name="linecolor">#D6D2D2</color>
     <color name="btnText">#005DB2</color>
     <color name="gray">#504545</color>
