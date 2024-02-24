@@ -48,6 +48,8 @@
             app:layout_constraintTop_toBottomOf="@+id/imageView">
 
             <com.google.android.material.textfield.TextInputEditText
+                android:inputType="textEmailAddress"
+                android:id="@+id/email_signUp_ed"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:hint="Email"
@@ -117,10 +119,10 @@
             app:passwordToggleEnabled="true">
 
             <com.google.android.material.textfield.TextInputEditText
+
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:hint="Password"
-                android:inputType="textPassword"
                 android:textColor="@color/black"
                 android:textSize="20dp" />
 
@@ -140,14 +142,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:hint="Confirm Password"
-                android:inputType="textPassword"
+
                 android:textColor="@color/black"
                 android:textSize="20dp" />
 
         </com.google.android.material.textfield.TextInputLayout>
 
         <Button
-            android:id="@+id/signInBtn"
+            android:id="@+id/signUpBtn"
             android:layout_width="320dp"
             android:layout_height="60dp"
             android:layout_marginTop="45dp"
@@ -170,27 +172,14 @@
             app:layout_constraintTop_toBottomOf="@id/loginOptions">
 
             <TextView
-                android:id="@+id/msg"
+                android:id="@+id/login_SignUp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Already have an account?"
+                android:text="Already have an account? Log in"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintEnd_toStartOf="@+id/textView"
                 app:layout_constraintHorizontal_bias="0.5"
-                app:layout_constraintStart_toStartOf="parent" />
-
-
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:clickable="true"
-                android:text="Log in"
-                app:layout_constraintTop_toTopOf="parent"
-                android:textColor="@color/splashScreenColor"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.5"
-                app:layout_constraintStart_toEndOf="@+id/msg" />
+                app:layout_constraintStart_toStartOf="parent" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 

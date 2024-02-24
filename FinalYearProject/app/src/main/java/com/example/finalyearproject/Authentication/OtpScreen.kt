@@ -13,6 +13,7 @@ import android.text.Spanned
 import android.text.TextPaint
 import android.text.method.LinkMovementMethod
 import android.text.style.ClickableSpan
+import android.util.Log
 import android.view.KeyEvent
 import android.view.MotionEvent
 import android.view.View
@@ -30,7 +31,7 @@ import com.example.finalyearproject.ViewModel.OtpViewModel
 import com.example.finalyearproject.databinding.ActivityOtpScreenBinding
 
 
-class OtpScreen() : AppCompatActivity() {
+class OtpScreen : AppCompatActivity() {
 
     private lateinit var binding: ActivityOtpScreenBinding
     private lateinit var toast: Toast
@@ -42,8 +43,7 @@ class OtpScreen() : AppCompatActivity() {
         toast = Toast.makeText(this@OtpScreen , "Lorem Ipsum" , Toast.LENGTH_SHORT)
 
         otpViewModel = ViewModelProvider(this).get(OtpViewModel::class.java)
-        otpViewModel.phoneNumber = intent.getStringExtra("phone number")
-
+        otpViewModel.phoneNumber = intent.getStringExtra("phoneNumber")
         setKeyListners()
         setSpannableStrings()
 
@@ -54,9 +54,7 @@ class OtpScreen() : AppCompatActivity() {
         val spannable1  = SpannableString(binding.editPnOtpButton.text)
         val clickable1: ClickableSpan = object : ClickableSpan() {
             override fun onClick(widget: View) {
-                val intent  = Intent()
-                intent.putExtra("phoneNumber" , otpViewModel.phoneNumber)
-                setResult(Activity.RESULT_OK , intent)
+
                 viewDialogBox()
             }
             override fun updateDrawState(ds: TextPaint) {
@@ -66,6 +64,7 @@ class OtpScreen() : AppCompatActivity() {
                 super.updateDrawState(ds)
             }
         }
+
         spannable1.setSpan(
             clickable1,
             0,
@@ -80,6 +79,7 @@ class OtpScreen() : AppCompatActivity() {
         val spannable2  = SpannableString(binding.backLoginOtp.text)
         val clickable2 : ClickableSpan = object : ClickableSpan(){
             override fun onClick(widget: View) {
+                setResult(RESULT_OK , Intent().putExtra("phoneNumber",otpViewModel.phoneNumber))
                 finish()
             }
             override fun updateDrawState(ds: TextPaint) {
@@ -122,13 +122,11 @@ class OtpScreen() : AppCompatActivity() {
                 toast.cancel()
                 otpViewModel.phoneNumber = phoneNumber.text.toString()
                 dialog.dismiss()
-
             }else{
                 toast.cancel()
                 toast = Toast.makeText(this@OtpScreen , "Enter the correct phone number" , Toast.LENGTH_SHORT)
                 toast.show()
             }
-
         }
 
         dialog.show()
@@ -235,8 +233,6 @@ class OtpScreen() : AppCompatActivity() {
                     binding.otpFour.setText("${getValue(keyCode)}")
                     binding.otpFive.requestFocus()
                 } else if (keyCode == 67) {
-                    // Backspace
-
                     binding.otpFour.setText("")
                     binding.otpThree.requestFocus()
 
@@ -264,11 +260,10 @@ class OtpScreen() : AppCompatActivity() {
                     binding.otpFive.setText("${getValue(keyCode)}")
                     binding.otpFive.clearFocus()
                     val imm: InputMethodManager =
-                        getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
+                    getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
                     imm.hideSoftInputFromWindow(binding.otpFive.windowToken, 0)
 
                 } else if (keyCode == 67) {
-                    // Backspace
 
                     binding.otpFive.setText("")
                     binding.otpFour.requestFocus()

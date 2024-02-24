@@ -13,13 +13,4 @@ class LoginViewModel : ViewModel() {
         set(value)  {field = value}
 
 
-    internal var password : String? = null
-        get() = field
-        set(value)  {field = value}
-
-
-
-
-
-
 }
