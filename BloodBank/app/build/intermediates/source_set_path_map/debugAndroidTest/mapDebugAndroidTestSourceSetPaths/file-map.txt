@@ -1,0 +1,6 @@
+com.example.bloodbank.test.app-core-1.5.0-0 C:\Users\vsure\.gradle\caches\transforms-3\e1d4da802162879c4842fb41453884a9\transformed\core-1.5.0\res
+com.example.bloodbank.test.app-annotation-experimental-1.3.0-1 C:\Users\vsure\.gradle\caches\transforms-3\e9593515a8b4c8584c7df1b8850a70b5\transformed\annotation-experimental-1.3.0\res
+com.example.bloodbank.test.app-androidTest-2 C:\Users\vsure\AndroidStudioProjects\BloodBank\app\build\generated\res\resValues\androidTest\debug
+com.example.bloodbank.test.app-mergeDebugAndroidTestResources-3 C:\Users\vsure\AndroidStudioProjects\BloodBank\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.bloodbank.test.app-mergeDebugAndroidTestResources-4 C:\Users\vsure\AndroidStudioProjects\BloodBank\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.bloodbank.test.app-debugAndroidTest-5 C:\Users\vsure\AndroidStudioProjects\BloodBank\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

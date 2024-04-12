@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="360dp"
+    android:layout_height="300dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="30dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:text="Enter the count of the Item"/>
+
+        <com.shawnlin.numberpicker.NumberPicker
+            android:id="@+id/count_np"
+            android:layout_margin="20dp"
+            android:layout_width="80dp"
+            android:layout_height="150dp"
+            app:np_max="10"
+            app:np_min="0"
+            app:np_textSize="18dp"
+            />
+
+        <Button
+            android:id="@+id/addBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add"
+            />
+
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

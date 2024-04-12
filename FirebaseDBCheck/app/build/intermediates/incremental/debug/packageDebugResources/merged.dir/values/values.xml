@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">FirebaseDBCheck</string>
+    <string name="default_web_client_id" translatable="false">184027228373-9rnks9t9d9u0vggkpbka5hrd8ctdrrpm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">184027228373</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZyJfp0mAa1UjU1O4dpNYVwyp_dnOMSEQ</string>
+    <string name="google_app_id" translatable="false">1:184027228373:android:b17842b83f2e1f96841a5c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZyJfp0mAa1UjU1O4dpNYVwyp_dnOMSEQ</string>
+    <string name="google_storage_bucket" translatable="false">qwerty8608823187.appspot.com</string>
+    <string name="project_id" translatable="false">qwerty8608823187</string>
+    <style name="Base.Theme.FirebaseDBCheck" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FirebaseDBCheck" parent="Base.Theme.FirebaseDBCheck"/>
+</resources>

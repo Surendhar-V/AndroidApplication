@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.multiviewrecyclerview.app-mergeDebugResources-34:/layout/clothing_layout.xml",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/clothing_layout.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-mergeDebugResources-34:/layout/best_seller_layout.xml",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/best_seller_layout.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-mergeDebugResources-34:/layout/each_item.xml",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/each_item.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-mergeDebugResources-34:/layout/text.xml",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/text.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-mergeDebugResources-34:/layout/banner_item.xml",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/banner_item.xml"
+    }
+]

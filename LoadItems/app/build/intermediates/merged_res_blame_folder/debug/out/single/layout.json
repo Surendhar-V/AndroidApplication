@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.loaditems.app-mergeDebugResources-42:/layout/item.xml",
+        "source": "com.example.loaditems.app-main-45:/layout/item.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.0\\com.example.loaditems.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.0\\com.example.loaditems.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.0\\com.example.loaditems.app-mergeDebugResources-42:\\layout\\count_dialog_box.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.0\\com.example.loaditems.app-main-45:\\layout\\count_dialog_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.0\\com.example.loaditems.app-mergeDebugResources-42:\\layout\\item.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.0\\com.example.loaditems.app-main-45:\\layout\\item.xml"
+    }
+]

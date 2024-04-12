@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\fragment_menu_hospital.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\fragment_menu_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\fragment_hos_home.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\fragment_hos_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\hospital_request_item.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\hospital_request_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\blood_request_item.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\blood_request_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\fragment_login_blood.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\fragment_login_blood.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\activity_blood.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\activity_blood.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\blood_string.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\blood_string.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\fragment_login_hospital.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\fragment_login_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\activity_hospital.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\activity_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\fragment_blood_request.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\fragment_blood_request.xml"
+    },
+    {
+        "merged": "com.example.bloodbank.app-mergeDebugResources-55:/layout/blood_request_item.xml",
+        "source": "com.example.bloodbank.app-main-58:/layout/blood_request_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.bloodbank.app-main-58:\\layout\\activity_main.xml"
+    }
+]

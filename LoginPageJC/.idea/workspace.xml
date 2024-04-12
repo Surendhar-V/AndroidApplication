@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8e47435-61fa-42ff-8d4d-55b5ae2a6dd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BottomNavigationView/app/src/main/res/menu/bottom_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BottomNavigationView/app/src/main/res/menu/bottom_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/.idea/kotlinScripting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/app/src/main/java/com/example/finalyearproject/Authentication/LoginScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/app/src/main/java/com/example/finalyearproject/Authentication/LoginScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/app/src/main/java/com/example/finalyearproject/Authentication/OtpScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/app/src/main/java/com/example/finalyearproject/Authentication/OtpScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/app/src/main/res/layout/activity_login_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/app/src/main/res/layout/activity_login_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/app/src/main/res/layout/activity_otp_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/app/src/main/res/layout/activity_otp_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Adapter/CategoryListAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Adapter/ItemListAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/CartItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/Category.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/CategoryInterface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/Item.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/ItemInterface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/OrderItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Repository/Repository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Resources/mFirebase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/SplashScreen/SplashScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Authentication/Login.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Authentication/Otp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Authentication/Signup.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/AccountFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/HistoryFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/HomeFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/ItemFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/MenuFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/OrderFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/ScanFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/ViewModel/AuthenticationViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/ViewModel/ShopViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/account_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/badge_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/barcode_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/cross_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/customercare_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/discount_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/google.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/history_history.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/home_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/item_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/link.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/login_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/loginbox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/menu_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/phone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/search_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/strike_through.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/trolley_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/font/righteous.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/barcode_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/category_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/count_dialog_box.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/customer_care_dialogbox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/forgot_password.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_history.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_order.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_otp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_scan.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_signup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/phone_number.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/menu/bottom_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/navigation/shop_nav.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryApplication/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrossMart-master/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GrossMart-master/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrossMart-master/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GrossMart-master/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrossMart-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GrossMart-master/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/activities/VerifyEmailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/activities/VerifyEmailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrossMart-master/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../GrossMart-master/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrossMart-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../GrossMart-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Adapter/CategoryListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Adapter/CategoryListAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Adapter/ItemListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Adapter/ItemListAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Repository/Repository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Repository/Repository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Resources/mFirebase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Resources/mFirebase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/Account.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/Account.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/AccountFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/AccountFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/History.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/History.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/HomeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/ListItems.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/ListItems.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/MenuFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/MenuFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/Orders.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/Orders.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/ViewModel/ListItemViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/ViewModel/ListItemViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/ViewModel/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/ViewModel/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/CartItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/CartItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/Category.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/Category.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/CategoryInterface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/CategoryInterface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/Item.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/Item.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/ItemInterface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/ItemInterface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/OrderItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/OrderItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/account.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/account.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/account_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/account_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/barcode_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/barcode_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/customercare_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/customercare_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/discount_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/discount_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/history_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/history_history.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/item_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/item_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/trolley_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/trolley_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_account.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_account.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_history.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_list_items.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_list_items.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_orders.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_orders.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/barcode_details.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/barcode_details.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/category_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/category_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/customer_care_dialogbox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/customer_care_dialogbox.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_account.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_account.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/menu/bottom_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/menu/bottom_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/navigation/my_nav.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/navigation/my_nav.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomePage_FYP/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../HomePage_FYP/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/Adapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/Adapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/CartItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/CartItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/HomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/HomeViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/Item.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/Item.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/ItemInterface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/ItemInterface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/OrderItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/OrderItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/Repository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/Repository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/res/drawable/android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/res/drawable/android.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/res/drawable/strike_through.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/res/drawable/strike_through.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/res/layout/count_dialog_box.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/res/layout/count_dialog_box.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoadItems/app/src/main/res/layout/item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/res/layout/item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/RecyclerAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/RecyclerAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/ScrollHandler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/ScrollHandler.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/fragment_first.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/fragment_second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/simple_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/simple_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/menu/bottom_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/menu/bottom_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/menu/drawer_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/menu/drawer_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/java/com/example/navigationcomponent/FirstFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/java/com/example/navigationcomponent/FirstFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/java/com/example/navigationcomponent/SecondFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/java/com/example/navigationcomponent/SecondFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/layout/fragment_first.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/layout/fragment_second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/navigation/my_nav.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/navigation/my_nav.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent2/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent2/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PakistanGroceryApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PakistanGroceryApp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PakistanGroceryApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PakistanGroceryApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchView/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchView/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchView/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchView/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/app/src/main/java/com/example/task2/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/app/src/main/java/com/example/task2/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/app/src/main/res/drawable/background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/app/src/main/res/drawable/background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/app/src/main/res/drawable/home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/app/src/main/res/drawable/home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/app/src/main/res/menu/bottom_navigation_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/app/src/main/res/menu/bottom_navigation_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/app/src/main/res/navigation/my_nav.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/app/src/main/res/navigation/my_nav.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/MyViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/MyViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/SecondFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/SecondFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/firstFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/firstFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/res/layout/fragment_first.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/res/layout/fragment_second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/res/navigation/my_nav.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/res/navigation/my_nav.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/androidTest/java/com/example/facebooksigin_firebase/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/java/com/example/facebooksigin_firebase/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/app/src/test/java/com/example/facebooksigin_firebase/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facebookSigin_firebase/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebaseExample/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../firebaseExample/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebaseExample/app/src/main/java/com/example/firebaseexample/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../firebaseExample/app/src/main/java/com/example/firebaseexample/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebaseExample/app/src/main/res/layout/main_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../firebaseExample/app/src/main/res/layout/main_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../googleSignin_firebase/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../googleSignin_firebase/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phoneNumberSignIn/app/src/main/java/com/example/phonenumbersignin/OtpActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../phoneNumberSignIn/app/src/main/java/com/example/phonenumbersignin/OtpActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phoneNumberSignIn/app/src/main/java/com/example/phonenumbersignin/phoneNumberAuth.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../phoneNumberSignIn/app/src/main/java/com/example/phonenumbersignin/phoneNumberAuth.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phoneNumberSignIn/app/src/main/res/layout/activity_otp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../phoneNumberSignIn/app/src/main/res/layout/activity_otp.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\vsure\.android\avd\Pixel_5_API_33.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eoynB2n2Z3xZjP6oVWy1DODOSe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "newFeature",
+    "last_opened_file_path": "C:/Users/vsure/AndroidStudioProjects/BloodBank"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vsure\AndroidStudioProjects\LoginPageJC\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="LoginPageJC.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8e47435-61fa-42ff-8d4d-55b5ae2a6dd8" name="Changes" comment="" />
+      <created>1712585390241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712585390241</updated>
+    </task>
+    <servers />
+  </component>
+</project>

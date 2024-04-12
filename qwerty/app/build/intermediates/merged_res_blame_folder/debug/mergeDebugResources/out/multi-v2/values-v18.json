@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.qwerty.app-mergeDebugResources-57:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vsure\\.gradle\\caches\\transforms-3\\03ab81403d760d11bf8096dd555d92fc\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\font_righteous.ttf.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\font\\righteous.ttf"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_link.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\link.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_badge_black.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\badge_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_trolley.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\trolley.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_order.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_customer_care_dialogbox.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\customer_care_dialogbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_home_item.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\home_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_bug.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\bug.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_banner_item.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\banner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_item.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_android.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\android.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_camera_scan.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\camera_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_list_items.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_walnuts.png.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\walnuts.png"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_bottom_background.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\bottom_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_trolley_black.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\trolley_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_discount.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_gray.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_menu.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_text.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\text.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_menu.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_otp.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_discount_black.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\discount_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_scan.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_item_selector.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_barcode_black.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\barcode_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_menu_black.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\menu_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_activity_authentication.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\activity_authentication.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_cat_item.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\cat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_background.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_banner4.jpg.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\banner4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_cross_black.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\cross_black.xml"
+    },
+    {
+        "merged": "com.example.qwerty.app-debug-59:/layout_fragment_scan.xml.flat",
+        "source": "com.example.qwerty.app-main-61:/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\navigation_shop_nav.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\navigation\\shop_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_search_black.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\search_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_google.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\google.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_dummy.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\dummy.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_forgot_password.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_phone_number.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_login_background.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_category_item.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_history_history.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\history_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_signup.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_banner3.jpg.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\banner3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_barcode_details.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\barcode_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_home_black.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\home_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_loginbox.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\loginbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\navigation_auth_nav.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\navigation\\auth_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_cat_recycler_view.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\cat_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_account_black.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\account_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_customercare_black.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\customercare_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_child_recycler_view.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\child_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_strike_through.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\strike_through.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_banner1.png.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\banner1.png"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_account.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_count_dialog_box.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\count_dialog_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_phone.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_banner2.jpg.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\banner2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_order_items.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\order_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-debug-59:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\vsure\\.gradle\\daemon\\8.4\\com.example.qwerty.app-main-61:\\layout\\fragment_login.xml"
+    }
+]

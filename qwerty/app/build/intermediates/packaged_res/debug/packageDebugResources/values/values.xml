@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_gray">#5F5F5F</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="lavender">#8692f7</color>
+    <color name="light_gray">#DADADA</color>
+    <color name="primaryBackground">#FFFFFF</color>
+    <color name="splashScreenColor">#22577A</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">qwerty</string>
+    <string name="gcm_defaultSenderId" translatable="false">184027228373</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZyJfp0mAa1UjU1O4dpNYVwyp_dnOMSEQ</string>
+    <string name="google_app_id" translatable="false">1:184027228373:android:321c83a84e1d796f841a5c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZyJfp0mAa1UjU1O4dpNYVwyp_dnOMSEQ</string>
+    <string name="google_storage_bucket" translatable="false">qwerty8608823187.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">qwerty8608823187</string>
+    <style name="Base.Theme.Qwerty" parent="Theme.Material3.DayNight.NoActionBar">
+        
+         <item name="colorPrimary">@color/splashScreenColor</item>
+    </style>
+    <style name="NoHighlightBottomNavigation" parent="Widget.Design.BottomNavigationView">
+        <item name="android:background">@color/white</item>
+
+    </style>
+    <style name="Theme.Qwerty" parent="Base.Theme.Qwerty"/>
+</resources>

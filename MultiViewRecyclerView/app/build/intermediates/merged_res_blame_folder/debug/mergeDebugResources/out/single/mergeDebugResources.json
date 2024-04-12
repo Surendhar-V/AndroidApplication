@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_watches.jpg.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/watches.jpg"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_nikeshoes.jpg.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/nikeshoes.jpg"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/layout_each_item.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/each_item.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_nikon_canon_offer.jpg.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/nikon_canon_offer.jpg"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_tv_offer.jpg.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/tv_offer.jpg"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/layout_banner_item.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/banner_item.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_levis_clothing.jpg.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/levis_clothing.jpg"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_offer_shoping.jpg.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/offer_shoping.jpg"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/layout_best_seller_layout.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/best_seller_layout.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_women_clothing.jpg.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/women_clothing.jpg"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_bags.jpg.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/bags.jpg"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/drawable_mobiles.jpg.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/drawable/mobiles.jpg"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/layout_clothing_layout.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/clothing_layout.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/layout_text.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/layout/text.xml"
+    },
+    {
+        "merged": "com.example.multiviewrecyclerview.app-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.multiviewrecyclerview.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

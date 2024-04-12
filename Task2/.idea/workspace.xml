@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4b43ad8-4666-40cc-8c1e-51262aac7877" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BottomNavigationView/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BottomNavigationView/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BottomNavigationView/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BottomNavigationView/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BottomNavigationView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BottomNavigationView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BottomNavigationView/app/src/main/res/drawable/one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BottomNavigationView/app/src/main/res/drawable/three.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BottomNavigationView/app/src/main/res/drawable/two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BottomNavigationView/app/src/main/res/menu/bottom_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Adapter/CategoryListAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Adapter/ItemListAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/CartItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/Category.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/CategoryInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/Item.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/ItemInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Model/OrderItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Repository/Repository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/Resources/mFirebase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/SplashScreen/SplashScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Authentication/Login.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Authentication/Otp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Authentication/Signup.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/AccountFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/HistoryFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/HomeFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/ItemFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/MenuFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/OrderFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/View/Shop/ScanFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/ViewModel/AuthenticationViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/java/com/example/groceryapplication/ViewModel/ShopViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/account.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/account_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/badge_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/barcode_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/cross_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/customercare_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/discount_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/google.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/history_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/home_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/item_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/link.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/login_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/loginbox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/menu_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/phone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/search_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/strike_through.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/drawable/trolley_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/font/righteous.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/barcode_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/category_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/count_dialog_box.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/customer_care_dialogbox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/forgot_password.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_account.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_order.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_otp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_scan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/fragment_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/layout/phone_number.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/menu/bottom_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/navigation/shop_nav.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryApplication/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/androidTest/java/com/jawadkhansahil/grossmart/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/SharedPreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/activities/CartActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/activities/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/activities/ProductDetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/activities/SigninActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/activities/SignupActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/activities/VerifyEmailActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/activities/WelcomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/adapter/CartAdapater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/adapter/CategoryAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/adapter/ProductAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/adapter/SlideViewPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/dialogs/ForgetPasswordDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/dialogs/LoadingDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/fragments/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/fragments/ProfileFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/models/CategoryModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/models/ProductModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/java/com/jawadkhansahil/grossmart/models/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/add_to_cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/background_gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/background_gradient_unselected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/bag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/baseline_email_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/baseline_location_pin_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/baseline_shopping_cart_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/bottom_navigation_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/button_gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/buy_grocery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/checkout_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/choose_products.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/cover_signin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/delivery_man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/fruits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/imageone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/imagethree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/imagetwo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/loading_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/profile_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/selected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/unselected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/drawable/weight_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/font/poppins_semibold.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/activity_cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/activity_product_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/activity_signin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/activity_verify_email.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/activity_welcome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/cart_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/category_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/dialog_loading.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/forget_password_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/fragment_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/onbord_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/layout/product_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/menu/bottom_navigation_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/raw/loading.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/app/src/test/java/com/jawadkhansahil/grossmart/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrossMart-master/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/androidTest/java/com/example/homepage_fyp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Adapter/CategoryListAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Adapter/ItemListAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Repository/Repository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/Resources/mFirebase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/Account.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/AccountFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/History.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/HomeFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/ListItems.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/MenuFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/View/Orders.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/ViewModel/ListItemViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/ViewModel/MainViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/fragment1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/fragment2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/fragment3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/CartItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/Category.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/CategoryInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/Item.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/ItemInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/java/com/example/homepage_fyp/model/OrderItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/account.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/account_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/badge_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/barcode_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/cross_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/customercare_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/discount_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/history_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/home_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/item_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/link.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/loginbox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/menu_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/search_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/strike_through.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/drawable/trolley_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_account.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_list_items.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/activity_orders.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/barcode_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/category_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/count_dialog_box.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/customer_care_dialogbox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_account.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_fragment1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_fragment2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_fragment3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/fragment_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/layout/item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/menu/bottom_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/navigation/my_nav.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/app/src/test/java/com/example/homepage_fyp/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomePage_FYP/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/Adapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/CartItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/HomeViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/Item.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/ItemInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/OrderItem.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/java/com/example/loaditems/Repository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/res/drawable/android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/res/drawable/strike_through.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/res/layout/count_dialog_box.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoadItems/app/src/main/res/layout/item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuckyNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/MainActivity2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/RecyclerAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/ScrollHandler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/firstFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/secondFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/drawable/drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/drawable/one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/drawable/two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/simple_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/menu/bottom_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/menu/drawer_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/androidTest/java/com/example/navigationcomponent/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/java/com/example/navigationcomponent/FirstFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/java/com/example/navigationcomponent/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/java/com/example/navigationcomponent/SecondFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/navigation/my_nav.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/app/src/test/java/com/example/navigationcomponent/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NavigationComponent2/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/androidTest/java/com/example/pakistangroceryapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/java/com/example/pakistangroceryapp/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/add_to_cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/background_gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/background_gradient_unselected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/bag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/baseline_email_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/baseline_location_pin_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/baseline_shopping_cart_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/bottom_navigation_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/button_gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/buy_grocery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/checkout_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/choose_products.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/cover_signin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/delivery_man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/fruits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/imageone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/imagethree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/imagetwo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/loading_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/profile_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/selected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/unselected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/drawable/weight_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/app/src/test/java/com/example/pakistangroceryapp/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PakistanGroceryApp/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/task2/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/task2/Home.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/task2/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/task2/Profile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/task2/Saved.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/heart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_saved.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/bottom_navigation_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/my_nav.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/task2/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/MyViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/SecondFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/firstFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/app/src/main/res/navigation/my_nav.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../googleSignin_firebase/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../googleSignin_firebase/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../googleSignin_firebase/app/src/main/java/com/example/googlesignin_firebase/HomeActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../googleSignin_firebase/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneNumberSignIn/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneNumberSignIn/app/src/main/java/com/example/phonenumbersignin/OtpActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneNumberSignIn/app/src/main/java/com/example/phonenumbersignin/phoneNumberAuth.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneNumberSignIn/app/src/main/res/layout/activity_otp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/app/src/main/java/com/example/finalyearproject/Authentication/LoginScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/app/src/main/java/com/example/finalyearproject/Authentication/LoginScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/app/src/main/java/com/example/finalyearproject/Authentication/OtpScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/app/src/main/java/com/example/finalyearproject/Authentication/OtpScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/app/src/main/res/layout/activity_login_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/app/src/main/res/layout/activity_login_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalYearProject/app/src/main/res/layout/activity_otp_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalYearProject/app/src/main/res/layout/activity_otp_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/java/com/example/navigationcomponent/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationComponent/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchView/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchView/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchView/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchView/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebaseExample/app/src/main/res/layout/main_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../firebaseExample/app/src/main/res/layout/main_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../googleSignin_firebase/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../googleSignin_firebase/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../googleSignin_firebase/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../googleSignin_firebase/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../googleSignin_firebase/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../googleSignin_firebase/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../googleSignin_firebase/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../googleSignin_firebase/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../googleSignin_firebase/app/src/main/java/com/example/googlesignin_firebase/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../googleSignin_firebase/app/src/main/java/com/example/googlesignin_firebase/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../googleSignin_firebase/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../googleSignin_firebase/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../googleSignin_firebase/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../googleSignin_firebase/build.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RZCW31CQR9Z]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="navigationResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2db3mEmbr4kf7u8gjL64jaZ4E1D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ResourceManagerPrefKey.ResourceType": "NAVIGATION",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/vsure/AndroidStudioProjects/Task2/app/src/main/res/drawable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vsure\AndroidStudioProjects\Task2\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Task2.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4b43ad8-4666-40cc-8c1e-51262aac7877" name="Changes" comment="" />
+      <created>1710263108089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710263108089</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+C:\Users\vsure\AndroidStudioProjects\LoginPageJC\app\src\main\java\com\example\loginpagejc\MainActivity.kt
+C:\Users\vsure\AndroidStudioProjects\LoginPageJC\app\src\main\java\com\example\loginpagejc\LoginScreen.kt
+C:\Users\vsure\AndroidStudioProjects\LoginPageJC\app\src\main\java\com\example\loginpagejc\ui\theme\Type.kt
+C:\Users\vsure\AndroidStudioProjects\LoginPageJC\app\src\main\java\com\example\loginpagejc\ui\theme\Theme.kt
+C:\Users\vsure\AndroidStudioProjects\LoginPageJC\app\src\main\java\com\example\loginpagejc\ui\theme\Color.kt
